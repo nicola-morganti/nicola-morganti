@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicola-morganti&label=Profile%20views&color=0e75b6&style=flat" alt="nicola-morganti" /> </p>
 </a> </p>
 
-- 🔭 I’m currently working on **Material Management for Church Bülach**
+- 🔭 I’m currently working on **Revolution Services**
 - 🌱 I’m currently learning **Symfony & Java**
 
 - 📫 How to reach me **nicola.morganti@bluewin.ch**
