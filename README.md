@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Revolution Services**
 - 🌱 I’m currently learning **Symfony & Java**
 
-- 📫 How to reach me **nicola.morganti@bluewin.ch**
+- 📫 How to reach me **n.morganti@icloud.com**
 - 👨‍💻 All of my projects are available at **https://github.com/nicola-morganti**
 
 <div> <a href="https://www.linkedin.com/in/nicola-morganti-11616823b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
