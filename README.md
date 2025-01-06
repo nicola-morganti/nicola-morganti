@@ -1,23 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicola Morganti</h1>
 <h3 align="center">A trained backend developer specializing in web development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicola-morganti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 - 🔭 **Currently working on:** Revolution Services  
 - 📫 **How to reach me:** [n.morganti@icloud.com](mailto:n.morganti@icloud.com)  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add links to your social profiles if needed -->
-  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
-</p>
 
 ---
 
