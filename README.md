@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 **Currently working on:** Revolution Services  
 - 📫 **How to reach me:** [n.morganti@icloud.com](mailto:n.morganti@icloud.com)  
 
 ---
